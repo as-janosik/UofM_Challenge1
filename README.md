@@ -5,6 +5,8 @@ Challenge one from UofM Fullstack Bootcamp Refactoring for Accesability
 
 This project is to demonstrate how to refactor code.  The new code on the HTMl index will now liist symantic elements t help with accessability, such as screen readers. 
 
+![Alt text](relative/assets/images/screencapture_site.png?raw=true "Site Photo")
+
 ## Getting Started
 
 ### Dependencies
